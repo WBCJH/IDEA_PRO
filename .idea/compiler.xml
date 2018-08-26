@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloudclient" />
+        <module name="cloudserver" />
         <module name="springcloudclient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="cloudclient" target="1.8" />
+      <module name="cloudserver" target="1.8" />
       <module name="springcloudclient" target="1.7" />
       <module name="springcloudServer" target="1.7" />
     </bytecodeTargetLevel>

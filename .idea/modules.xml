@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudclient/cloudclient.iml" filepath="$PROJECT_DIR$/cloudclient/cloudclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudserver/cloudserver.iml" filepath="$PROJECT_DIR$/cloudserver/cloudserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudServer/springcloudServer.iml" filepath="$PROJECT_DIR$/springcloudServer/springcloudServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudclient/springcloudclient.iml" filepath="$PROJECT_DIR$/springcloudclient/springcloudclient.iml" />
     </modules>
