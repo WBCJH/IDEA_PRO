@@ -2,7 +2,6 @@ package com.mycloud.server;
 
 public class CloudServer {
     public static void main(String[] args) {
-        System.out.println("Im cloudServer12345678910");
-        System.out.println("Im cloudServer123456321");
+        System.out.println("im cloud server");
     }
 }
